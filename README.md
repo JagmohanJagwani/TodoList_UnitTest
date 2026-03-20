@@ -23,10 +23,10 @@ pubspec.yaml # Project dependencies including shared_preferences
 ## 📷 Screenshots
 
 ### App UI
-![UI Screenshot](screenshots/ui.png)
+![image alt](https://github.com/JagmohanJagwani/TodoList_UnitTest/blob/71fcd3324a676b8dafbe9ebd777ab6980b00fa4b/Screenshot/ui.png)
 
 ### Unit Test Output
-![Test Screenshot](screenshots/test.png)
+![Test Screenshot](https://github.com/JagmohanJagwani/TodoList_UnitTest/blob/71fcd3324a676b8dafbe9ebd777ab6980b00fa4b/Screenshot/test.png)
 
 ---
 

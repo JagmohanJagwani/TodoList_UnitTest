@@ -1,17 +1,46 @@
-# todolist_unit_test
+# ToDo List App with Shared Preferences
 
-A new Flutter project.
+## 📌 Group Member Details
+- Section: BSSE-6D
+- Jagmohan Dass (2380232)
+- Saad Ahsan (2380278)
+- Abdul Wahid (2380222)
+- 
 
-## Getting Started
+## 🛠 Project Structure
+lib/
+├─ main.dart # Main Flutter app with UI and task logic
+test/
+├─ todo_test.dart # Unit tests for add/toggle task functionality
+screenshots/
+├─ ui.png # Screenshot of app UI
+├─ test.png # Screenshot of unit test results
+pubspec.yaml # Project dependencies including shared_preferences
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## 📷 Screenshots
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### App UI
+![UI Screenshot](screenshots/ui.png)
+
+### Unit Test Output
+![Test Screenshot](screenshots/test.png)
+
+---
+
+## 📝 Description
+
+This Flutter ToDo List application uses the `shared_preferences` plugin to persist tasks and their "done" status.  
+
+**Features:**
+- Add new tasks  
+- Toggle task completion  
+- Tasks persist even after app restart  
+
+**Unit Tests:**
+1. Adding a new task increases the task list.
+2. Toggling a task correctly updates its "done" status.
+
+---

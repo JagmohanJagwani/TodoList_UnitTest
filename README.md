@@ -5,7 +5,7 @@
 - Jagmohan Dass (2380232)
 - Saad Ahsan (2380278)
 - Abdul Wahid (2380222)
-- 
+- Muhammad Khizer (2380279)
 
 ## 🛠 Project Structure
 lib/
